@@ -1,1 +1,81 @@
-{"contact":{"name":"0xd95a49409529b1ee533c9a1166c9c669f21722e6","email":""},"default":{"display":{"title":"interactive-text","favicon":"favicon_asset"},"owner":"","contact":{"name":"0xd95a49409529b1ee533c9a1166c9c669f21722e6","email":""},"main":"bin/game.js","tags":[],"scene":{"parcels":["0,0"],"base":"0,0"},"communications":{"type":"webrtc","signalling":"https://signalling-01.decentraland.org"},"policy":{"contentRating":"E","fly":true,"voiceEnabled":true,"blacklist":[],"teleportPosition":""}},"display":{"title":"Doge Memorial","favicon":"favicon_asset","description":"","navmapThumbnail":"scene-thumbnail.png"},"main":"bin/index.js","owner":"","scene":{"parcels":["0,0","0,1","0,2","1,0","1,1","1,2","2,0","2,1","2,2"],"base":"0,0"},"tags":[],"source":{"version":1,"origin":"builder","projectId":"10393aa5-427b-4054-8b68-fab18b259214","point":{"x":0,"y":0},"rotation":"east","layout":{"rows":3,"cols":3}},"allowedMediaHostnames":[],"ecs7":true,"runtimeVersion":"7"}
+{
+  "contact": {
+    "name": "0xd95a49409529b1ee533c9a1166c9c669f21722e6",
+    "email": ""
+  },
+  "default": {
+    "display": {
+      "title": "interactive-text",
+      "favicon": "favicon_asset"
+    },
+    "owner": "",
+    "contact": {
+      "name": "0xd95a49409529b1ee533c9a1166c9c669f21722e6",
+      "email": ""
+    },
+    "main": "bin/game.js",
+    "tags": [],
+    "scene": {
+      "parcels": [
+        "0,0"
+      ],
+      "base": "0,0"
+    },
+    "communications": {
+      "type": "webrtc",
+      "signalling": "https://signalling-01.decentraland.org"
+    },
+    "policy": {
+      "contentRating": "E",
+      "fly": true,
+      "voiceEnabled": true,
+      "blacklist": [],
+      "teleportPosition": ""
+    }
+  },
+  "display": {
+    "title": "Doge Memorial",
+    "favicon": "favicon_asset",
+    "description": "",
+    "navmapThumbnail": "scene-thumbnail.png"
+  },
+  "main": "bin/index.js",
+  "owner": "",
+  "scene": {
+    "parcels": [
+      "0,0",
+      "0,1",
+      "0,2",
+      "1,0",
+      "1,1",
+      "1,2",
+      "2,0",
+      "2,1",
+      "2,2"
+    ],
+    "base": "0,0"
+  },
+  "tags": [],
+  "source": {
+    "version": 1,
+    "origin": "builder",
+    "projectId": "10393aa5-427b-4054-8b68-fab18b259214",
+    "point": {
+      "x": 0,
+      "y": 0
+    },
+    "rotation": "east",
+    "layout": {
+      "rows": 3,
+      "cols": 3
+    }
+  },
+  "allowedMediaHostnames": [],
+  "ecs7": true,
+  "runtimeVersion": "7",
+  "spawnPoints": [],
+  "featureToggles": {
+    "voiceChat": "enabled",
+    "portableExperiences": "enabled"
+  }
+}
